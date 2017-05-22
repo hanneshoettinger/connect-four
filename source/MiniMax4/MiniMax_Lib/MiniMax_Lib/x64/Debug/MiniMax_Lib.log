@@ -1,0 +1,6 @@
+﻿  ScoreMiniMax.cpp
+  global.cpp
+  Generating Code...
+c:\users\hannes\documents\visual studio 2015\projects\ki\minimax4\minimax4\minimax_lib\minimax_lib\scoreminimax.cpp(267): warning C4715: 'ScoreMiniMax::nextMove': not all control paths return a value
+c:\users\hannes\documents\visual studio 2015\projects\ki\minimax4\minimax4\minimax_lib\minimax_lib\scoreminimax.cpp(315): warning C4715: 'ScoreMiniMax::dropMyDisk': not all control paths return a value
+  MiniMax_Lib.vcxproj -> C:\Users\Hannes\Documents\Visual Studio 2015\Projects\KI\MiniMax4\MiniMax4\MiniMax_Lib\x64\Debug\MiniMax_Lib.lib
